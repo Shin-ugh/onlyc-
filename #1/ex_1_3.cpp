@@ -16,6 +16,7 @@ int main()
     cout << j;
     cout << ' ';
     cout << d;
+    cout << "よよよ"
 
     return 0;
 }
