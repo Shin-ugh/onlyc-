@@ -18,6 +18,7 @@ int main()
     cout << d;
     cout << "よよよ"
     cout << "practice"
+    cout << "fix-B"
 
     return 0;
 }
