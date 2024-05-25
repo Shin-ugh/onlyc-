@@ -16,7 +16,7 @@ int main()
     cout << j;
     cout << ' ';
     cout << d;
-    cout << "よよよ"
+    cout << "fix-B"
 
     return 0;
 }
